@@ -1,0 +1,13 @@
+{
+  "name": "reactions-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nicca42/reactions-bot.git",
+  "author": "Veronica <veronica.21.coutts@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
